@@ -44,6 +44,6 @@ If you think the code is bad don't complain
 
 License: AGPL 3.0
 
-Support: DM me on Discord, fruitcake5#0336 but dont expect much
+Support/Bugs: DM me on Discord, fruitcake5#0336 but dont expect much
 
 ⚠️ it is expected that you are familiar with Node.js ⚠️
