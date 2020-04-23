@@ -4,6 +4,8 @@
 > Ghetto SpookVooper API wrapper
 ---
 
+# I would put this on NPM but im lazy
+
 ## Example Code
 
 #### Single Stonk Honk Boi
