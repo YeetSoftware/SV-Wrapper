@@ -1,10 +1,12 @@
 # SV-Wrapper
-[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+
+<p align="center">
+    <a href="https://github.com/standard/standard"><img src="https://cdn.rawgit.com/standard/standard/master/badge.svg" alt="JavaScript Style Guide" /></a>
+    <a href="https://nodei.co/npm/spookvooper/"><img src="https://nodei.co/npm/spookvooper.png?downloads=true&stars=true" alt="npm installnfo" /></a>
+</p>
 
 > Ghetto SpookVooper API wrapper
 ---
-
-# I would put this on NPM but im lazy
 
 ## Example Code
 
