@@ -12,7 +12,7 @@
 
 #### Single Stonk Honk Boi
 ```js
-const SV = require('./wrapper.js')
+const SV = require('spookvooper')
 const client = new SV('API KEY')
 
 const target = 'STOCK ONE'
@@ -29,7 +29,7 @@ setInterval(async () => {
 
 #### Multi Stonk Honk Boi
 ```js
-const SV = require('./wrapper.js')
+const SV = require('spookvooper')
 const client = new SV('API KEY')
 
 setInterval(() => {
